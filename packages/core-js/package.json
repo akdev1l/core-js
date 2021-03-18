@@ -53,6 +53,5 @@
     "shim"
   ],
   "scripts": {
-    "postinstall": "node -e \"try{require('./postinstall')}catch(e){}\""
   }
 }
